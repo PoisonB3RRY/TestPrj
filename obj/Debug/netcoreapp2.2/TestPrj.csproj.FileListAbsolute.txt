@@ -1,0 +1,10 @@
+/Users/nickj/Desktop/TESTCODES/TestPrj/bin/Debug/netcoreapp2.2/TestPrj.deps.json
+/Users/nickj/Desktop/TESTCODES/TestPrj/bin/Debug/netcoreapp2.2/TestPrj.runtimeconfig.json
+/Users/nickj/Desktop/TESTCODES/TestPrj/bin/Debug/netcoreapp2.2/TestPrj.runtimeconfig.dev.json
+/Users/nickj/Desktop/TESTCODES/TestPrj/bin/Debug/netcoreapp2.2/TestPrj.dll
+/Users/nickj/Desktop/TESTCODES/TestPrj/bin/Debug/netcoreapp2.2/TestPrj.pdb
+/Users/nickj/Desktop/TESTCODES/TestPrj/obj/Debug/netcoreapp2.2/TestPrj.csproj.CoreCompileInputs.cache
+/Users/nickj/Desktop/TESTCODES/TestPrj/obj/Debug/netcoreapp2.2/TestPrj.AssemblyInfoInputs.cache
+/Users/nickj/Desktop/TESTCODES/TestPrj/obj/Debug/netcoreapp2.2/TestPrj.AssemblyInfo.cs
+/Users/nickj/Desktop/TESTCODES/TestPrj/obj/Debug/netcoreapp2.2/TestPrj.dll
+/Users/nickj/Desktop/TESTCODES/TestPrj/obj/Debug/netcoreapp2.2/TestPrj.pdb
